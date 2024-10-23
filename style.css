@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+.nav-main{
+    height: 740px;
+    width: 1490px;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: darkgoldenrod; */
+}
+h1{ 
+    outline: 2px 2px 3px white;
+    opacity: .5;
+    text-shadow: 5px 5px 4px white;
+    font-size: 500px;
+    color: aqua;
+    text-shadow: 20px 20px 20px red;
+
+}
+.main{
+    height: 400px;
+    width: 400px;
+    background-image:url("./big\ heart.jpg") ;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 60px;
+    font-weight: 1000;
+    text-transform: capitalize;
+    text-shadow: 5px 5px 7px rgb(18, 223, 31);
+    
+}
